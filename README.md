@@ -4,6 +4,7 @@ In this module, a table of all documented UFO sightings between January 1 and 13
 
 ## Results
 To explore the data, UFO sightings can be filtered by sighting date, city, state, country, and shape. Multiple filters can be applied at the same time. To perform this task, go to the Filter Search section on the web page (see photo below). Simply type in your search criteria into the appropriate search box. For example, to search for sightings in New York, type "NY" into the "Enter a State" text box. Either press enter or click anywhere on the page outside the text box and the data will be filtered according to your search parameters. If no sightings are displayed, it means there is no data that matches your search criteria. 
+
 ![image](https://user-images.githubusercontent.com/94587007/157062686-1cc25ad6-736b-4435-985e-9177a6232ec8.png)
 
 ## Summary 
